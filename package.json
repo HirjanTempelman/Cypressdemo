@@ -1,0 +1,19 @@
+{
+  "name": "cypressdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Cypressdemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HirjanTempelman/Cypressdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HirjanTempelman/Cypressdemo/issues"
+  },
+  "homepage": "https://github.com/HirjanTempelman/Cypressdemo#readme"
+}
