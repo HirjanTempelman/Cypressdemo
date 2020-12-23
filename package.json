@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HirjanTempelman/Cypressdemo/issues"
   },
-  "homepage": "https://github.com/HirjanTempelman/Cypressdemo#readme"
+  "homepage": "https://github.com/HirjanTempelman/Cypressdemo#readme",
+  "dependencies": {
+    "cypress": "^6.2.0"
+  }
 }
