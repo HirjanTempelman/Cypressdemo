@@ -12,7 +12,7 @@ context('Demo Cypress - Politie.nl', () => {
     cy.get('span[class="subtitle"]').contains('0900-8844');
   })
 
-  it('tc2 - Controle of zoekveld zichtbaar is', () => {
+  it('tc 2 - Controle of zoekveld zichtbaar is', () => {
     cy.get('input[id="search-bar-input"]').should('be.visible');
    })
 

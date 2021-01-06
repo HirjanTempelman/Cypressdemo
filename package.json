@@ -4,7 +4,9 @@
   "description": "",
   "main": "Cypressdemo.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypres openen": "npx cypress open",
+    "cypres run": "npx cypress run"
   },
   "repository": {
     "type": "git",
