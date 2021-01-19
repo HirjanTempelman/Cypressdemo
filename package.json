@@ -5,8 +5,10 @@
   "main": "Cypressdemo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cypres openen": "npx cypress open",
-    "cypres run": "npx cypress run"
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open",
+    "cypress:run:record": "cypress run --record --key 33f89a4b-268b-47e5-9ad9-2b4e211b8392"
+    
   },
   "repository": {
     "type": "git",
